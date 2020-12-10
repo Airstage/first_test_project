@@ -1,3 +1,4 @@
+#Yandexlyceum
 def main():
     print('Ну что, дошли до этого места?')
     print('А до этого?')

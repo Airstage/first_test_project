@@ -6,6 +6,8 @@ def main():
     print('And another one')
     print('And this one i added myself from github')
     print('And here is print without function')
+    print('This is the end. My only friend.')
+
 
 if __name__ == '__main__':
     main()

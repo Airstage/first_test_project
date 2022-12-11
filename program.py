@@ -2,6 +2,14 @@ def some_func():
     print('New print!')
 
 
+def meaningful_print():
+    print(f'''Hello. I am new AI written by Anonymous_person.''')
+
+
+def ending_print():
+    print('That`s all folks.')
+
+
 def main():
     print('My first git program')
     print('And I change it every day')
@@ -10,6 +18,8 @@ def main():
     print('And another one')
     print('And this one i added myself from github')
     some_func()
+    meaningful_print()
+    ending_print()
 
 
 if __name__ == '__main__':

@@ -1,6 +1,7 @@
 def some_func():
     print('New print!')
 
+
 def main():
     print('My first git program')
     print('And I change it every day')
